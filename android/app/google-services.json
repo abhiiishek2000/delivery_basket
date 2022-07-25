@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659866174146",
+    "project_id": "vidarbhabasket-c700d",
+    "storage_bucket": "vidarbhabasket-c700d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659866174146:android:02d03ae7bad72d3ace715b",
+        "android_client_info": {
+          "package_name": "com.profcyma.delivery_basket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659866174146-cgtr8l4lj8b619fqa6ecr4g6aappdsp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.profcyma.delivery_basket",
+            "certificate_hash": "046f5daf93de1c4d07e8bc217876dd88d8284dc0"
+          }
+        },
+        {
+          "client_id": "659866174146-99g917bm6vq9himsobj8mencrv8465sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG73B611EY0xBEsGZj6JZ8bY7VWbd9zjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659866174146-99g917bm6vq9himsobj8mencrv8465sq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659866174146-usoih7kabo1lh0ulgnj2c9ki95t932cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.profcyma.delivery_basket",
+                "app_store_id": "1587839286"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
